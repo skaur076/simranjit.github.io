@@ -1,3 +1,5 @@
 # First week post
 
-Some content for the post. 
+# SKETCH
+
+I choose sketch to make my first project for directed studies.
