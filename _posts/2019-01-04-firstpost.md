@@ -1,3 +1,3 @@
-# Title of our first post
+# First week post
 
 Some content for the post. 
