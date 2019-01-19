@@ -5,7 +5,7 @@ In this week I learnt following things about sketch:
 1. Install plugins, we downloaded from the internet
 2. Style guides and things like buttons , links, colors, patterns
 3. Color styles
-4.Import google fonts from www.google.com/fonts
+4. Import google fonts from www.google.com/fonts
 5. text styles
 I started creating the prototype for my app by using all the properties i learnt this week.
 
