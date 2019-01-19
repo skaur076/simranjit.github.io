@@ -9,5 +9,8 @@ In this week I learnt following things about sketch:
 5. text styles
 I started creating the prototype for my app by using all the properties i learnt this week.
 
+##Problems
+Well, i find sketch is easy to use and till now i didn't find any problem.
+
 ## My plans for next week
 For the next week i think i will use symbols, layer and masks properties and learn sketch for responsive websites.
