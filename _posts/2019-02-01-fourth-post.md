@@ -3,7 +3,7 @@
 ## Accomplishments this week
 
 In this week I learnt following things about sketch:
-I did mobile view this week and created two new artboards.I learn how to link artbaords and linked artboards with each other.
+I did mobile view this week and created two new artboards.I learn how to link artbaords and linked artboards with each other.I learn how to create symbols in sketch and we can use them whenever we want.
 
 
 ## Problems
