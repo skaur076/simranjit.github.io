@@ -1,3 +1,4 @@
+({%post_url2019-01-04-firstpost%})
 # First week post
 
 Hello everyone
