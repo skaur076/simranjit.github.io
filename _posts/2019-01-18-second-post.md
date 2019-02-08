@@ -1,5 +1,6 @@
+# [My Second Blog]({% post_url 2019-01-18-second-post %})
 
-# My Second Blog
+
 ## Accomplishments this week
 In this week I learnt following things about sketch:
 1. Install plugins, we downloaded from the internet
