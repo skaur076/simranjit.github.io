@@ -10,7 +10,9 @@ We can easily get this app from internet. We can use it for free for 1 month and
 ## Using Artboards in Sketch and responsive design: 
 
 1.	Press A on keyboard, it will bring up the artboards that sketch has already added. We will choose desktop, tablet and mobile view for this tutorial. We can also resize our artboards as we can give own height and width.
+
 ![Image](Images/image1.png)
+
 2.	To create logo for my website I am going to use some shapes and text. For the circle we will go to insert->shape->oval and for the text insert->text. We can fill colors in text and shapes by going to style on the right side. Under style we have fills, borders, shadows, inner shadows and blur. We can group our site logo by pressing command+ G and change the name of layer by double clicking on layer.
 3.	Now we can make this logo a symbol and can use this symbol anywhere in website easily. Select the logo, at the top bar we have option of create symbol, click on that and give your symbol a name. we can see our symbol under symbols option on the left bar.
 4.	Follow the same steps for search bar and for this we will use rectangle and oval.
