@@ -23,6 +23,7 @@ We can easily get this app from internet. We can use it for free for 1 month and
 ![Image](Images/image3.1.png)
 ![Image](Images/image3.2.png)
 ![Image](Images/image3.3.png)
+
 4.	Follow the same steps for search bar and for this we will use rectangle and oval.
 5.	For the nav bar I am going to use rectangle and fill it with dark green color with and display menu options with white color. To change color of the text, go to style-> fills and choose color of your choice.
 6.	I am going to use some pictures for this website, and I will download some pictures related to my website from www.unsplash.com. I only need half of the image so, to cut the image I am going to use mask. 
