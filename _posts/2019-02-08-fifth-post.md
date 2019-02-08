@@ -1,5 +1,5 @@
 
-### Sketch Tutorial
+# Sketch Tutorial
 
 For this tutorial I created a prototype of a responsive website related to healthy lifestyle using sketch. 
 
