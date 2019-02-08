@@ -1,4 +1,6 @@
-# [Project A(Sketch)]({ post_url 2019-01-04-firstpost })
+# [My First Blog)]({% post_url 2019-01-04-firstpost %})
+
+
 
 Hello everyone
 My name is Simranjit Kaur and i want to share with all of you what will be my first project.
