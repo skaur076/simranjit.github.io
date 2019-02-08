@@ -15,6 +15,9 @@ We can easily get this app from internet. We can use it for free for 1 month and
 ![Image](Images/image1.1.png)
 
 2.	To create logo for my website I am going to use some shapes and text. For the circle we will go to insert->shape->oval and for the text insert->text. We can fill colors in text and shapes by going to style on the right side. Under style we have fills, borders, shadows, inner shadows and blur. We can group our site logo by pressing command+ G and change the name of layer by double clicking on layer.
+
+![Image](Images/image2.png)
+
 3.	Now we can make this logo a symbol and can use this symbol anywhere in website easily. Select the logo, at the top bar we have option of create symbol, click on that and give your symbol a name. we can see our symbol under symbols option on the left bar.
 4.	Follow the same steps for search bar and for this we will use rectangle and oval.
 5.	For the nav bar I am going to use rectangle and fill it with dark green color with and display menu options with white color. To change color of the text, go to style-> fills and choose color of your choice.
