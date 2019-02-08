@@ -1,5 +1,6 @@
+# [My Third Blog]({% post_url 2019-01-25-third-post %})
 
-# My Third Blog
+
 ## Accomplishments this week
 In this week I learnt following things about sketch:
 
