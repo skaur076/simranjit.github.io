@@ -35,7 +35,9 @@ We can easily get this app from internet. We can use it for free for 1 month and
 6.	I am going to use some pictures for this website, and I will download some pictures related to my website from www.unsplash.com. I only need half of the image so, to cut the image I am going to use mask. 
 7.	Draw a shape on the image on that area of image which you want to use. In the layers panel image layer must be above the rectangle. Now, select both rectangle and image and on the top bar click on mask option.
 
+![Image](Images/image5.1.png)
 
+![Image](Images/image5.2.png)
 
 8.	To insert some text, you can either press T on keyboard or go to insert->text option. 
 9.	I am going to create some articles for my website by inserting images and text and align them accordingly.
