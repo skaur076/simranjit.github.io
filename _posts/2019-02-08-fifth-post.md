@@ -59,6 +59,8 @@ We can easily get this app from internet. We can use it for free for 1 month and
 
 ![Image](Images/image9.2.png)
 
+![Image](Images/image10.png)
+
 14.	As we already have our font style, colors, symbols, buttons, images and icons from the desktop view. Now, it is easier for us to make tablet and mobile view for our website.
 15.	Press A on the keyboard and select tablet artboard. Now, for the articles of tablet view I am going to use some shadow to make them effective. To give shadow select the rectangle and go to style->shadow and set the x and y values for shadow.
 16.	By repeating the same steps as in desktop view, I come up with tablet view and for the tablet view I am, displaying text along with images.
