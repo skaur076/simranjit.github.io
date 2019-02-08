@@ -29,6 +29,8 @@ We can easily get this app from internet. We can use it for free for 1 month and
 
 4.	Follow the same steps for search bar and for this we will use rectangle and oval.
 5.	For the nav bar I am going to use rectangle and fill it with dark green color with and display menu options with white color. To change color of the text, go to style-> fills and choose color of your choice.
+
+![Image](Images/image4.png)
 6.	I am going to use some pictures for this website, and I will download some pictures related to my website from www.unsplash.com. I only need half of the image so, to cut the image I am going to use mask. 
 7.	Draw a shape on the image on that area of image which you want to use. In the layers panel image layer must be above the rectangle. Now, select both rectangle and image and on the top bar click on mask option.
 8.	To insert some text, you can either press T on keyboard or go to insert->text option. 
