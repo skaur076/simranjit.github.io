@@ -1,4 +1,5 @@
-# My Fourth Blog
+# [My Fourth Blog]({% post_url 2019-02-01-fourth-post %})
+
 
 ## Accomplishments this week
 
