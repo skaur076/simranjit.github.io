@@ -80,6 +80,8 @@ We can easily get this app from internet. We can use it for free for 1 month and
 To create link between artboards and to check how the website will look in real world.
 
 1.	Select the Read more button and go to, prototyping->add link to artboard->select the artboard with which you want to link the previous artboard.
+
+![Image](Images/image14.png)
 2.	You can link all artboards with each other.
 3.	To preview, go to prototyping->preview prototype. Now you can navigate through artboards.
 4.	To always preview from homepage, you can set this by going to prototyping->use artboard as start point.  
