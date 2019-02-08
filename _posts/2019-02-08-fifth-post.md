@@ -68,6 +68,8 @@ We can easily get this app from internet. We can use it for free for 1 month and
 
 16.	By repeating the same steps as in desktop view, I come up with tablet view and for the tablet view I am, displaying text along with images.
 17.	Press A on the keyboard and select mobile artboard. I am making a single column layout for mobile view. 
+
+![Image](Images/image12.png)
 18.	To make other mockups we can just drag artboards by pressing option key on the keyboard and make copies of artboards.
 
 
