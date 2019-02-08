@@ -29,7 +29,7 @@ We can easily get this app from internet. We can use it for free for 1 month and
 11.	I am not displaying whole text for article on home page, so I am going to create read more button and to do this I am using rectangle and text. Group the button and also make it a symbol because we will need this many time for other articles. ![Image](Images/image8.png)
 
 12.	By following above steps, we will create other articles for our website.
-13.	Now for the icons for footer we will use https://icomoon.io/. I am going to download Facebook, Instagram and twitter icons for my website. Now to align icons in the footer we can use align options on the top right side. Now we come up with desktop view. ![Image](Images/image9.1.png) ![Image](Images/image9.2.png) ![Image](Images/image10.png)
+13.	Now for the icons for footer we will use [https://icomoon.io/](https://icomoon.io/). I am going to download Facebook, Instagram and twitter icons for my website. Now to align icons in the footer we can use align options on the top right side. Now we come up with desktop view. ![Image](Images/image9.1.png) ![Image](Images/image9.2.png) ![Image](Images/image10.png)
 
 14.	As we already have our font style, colors, symbols, buttons, images and icons from the desktop view. Now, it is easier for us to make tablet and mobile view for our website.
 15.	Press A on the keyboard and select tablet artboard. Now, for the articles of tablet view I am going to use some shadow to make them effective. To give shadow select the rectangle and go to style->shadow and set the x and y values for shadow. ![Image](Images/image11.png)
