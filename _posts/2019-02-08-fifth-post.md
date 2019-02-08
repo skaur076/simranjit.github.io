@@ -41,6 +41,9 @@ We can easily get this app from internet. We can use it for free for 1 month and
 
 8.	To insert some text, you can either press T on keyboard or go to insert->text option. 
 9.	I am going to create some articles for my website by inserting images and text and align them accordingly.
+
+![Image](Images/image6.png)
+
 10.	To properly align everything on artboard I am going to use grids. To show grids on artboard go to, View->Canvas->Show grid. We can adjust grid block size and think lines every by going to, View->Canvas->Grid settings. I am using 65px and 10 respectively and click OK.
 11.	I am not displaying whole text for article on home page, so I am going to create read more button and to do this I am using rectangle and text. Group the button and also make it a symbol because we will need this many time for other articles.
 12.	By following above steps, we will create other articles for our website.
