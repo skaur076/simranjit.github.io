@@ -84,6 +84,7 @@ To create link between artboards and to check how the website will look in real 
 ![Image](Images/image14.png)
 2.	You can link all artboards with each other.
 3.	To preview, go to prototyping->preview prototype. Now you can navigate through artboards.
-4.	To always preview from homepage, you can set this by going to prototyping->use artboard as start point.  
+4.	To always preview from homepage, you can set this by going to prototyping->use artboard as start point. 
+![Image](Images/image15.png)
 
 
