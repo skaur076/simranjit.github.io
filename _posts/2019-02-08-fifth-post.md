@@ -19,6 +19,10 @@ We can easily get this app from internet. We can use it for free for 1 month and
 ![Image](Images/image2.png)
 
 3.	Now we can make this logo a symbol and can use this symbol anywhere in website easily. Select the logo, at the top bar we have option of create symbol, click on that and give your symbol a name. we can see our symbol under symbols option on the left bar.
+
+![Image](Images/image3.1.png)
+![Image](Images/image3.2.png)
+![Image](Images/image3.3.png)
 4.	Follow the same steps for search bar and for this we will use rectangle and oval.
 5.	For the nav bar I am going to use rectangle and fill it with dark green color with and display menu options with white color. To change color of the text, go to style-> fills and choose color of your choice.
 6.	I am going to use some pictures for this website, and I will download some pictures related to my website from www.unsplash.com. I only need half of the image so, to cut the image I am going to use mask. 
