@@ -72,6 +72,8 @@ We can easily get this app from internet. We can use it for free for 1 month and
 ![Image](Images/image12.png)
 18.	To make other mockups we can just drag artboards by pressing option key on the keyboard and make copies of artboards.
 
+![Image](Images/image13.png)
+
 
 ## Prototyping in sketch
 
