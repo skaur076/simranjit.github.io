@@ -60,3 +60,20 @@ To create link between artboards and to check how the website will look in real 
 [https://www.youtube.com/watch?v=nTWNFEGFxnI](https://www.youtube.com/watch?v=nTWNFEGFxnI)
 
 
+## Expectations
+
+Well, I achieved all I wanted as I was expecting to make a effective website by using sketch and i think I did. I was expecting to make it responsive so that when i resize it then it will turn to tablet and mobile view.
+
+## Lessons Leraned
+
+I learned many things about sketch that how we can create designs in an easy way rather than using photoshop and illustrator for designs. 
+
+## Unexpected Challenges
+
+Well, I faced difficulties in usind plugins and how can I extend sketch.
+
+## Future works
+
+In the future i will use this software for all of my designing and i will learn how i can extend sketch with the help of plugins. 
+
+
