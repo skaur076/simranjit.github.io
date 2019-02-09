@@ -70,7 +70,7 @@ I learned many things about sketch that how we can create designs in an easy way
 
 ## Unexpected Challenges
 
-Well, I faced difficulties in usind plugins and how can I extend sketch.
+Well, I faced difficulties in using plugins and how can I extend sketch.
 
 ## Future works
 
