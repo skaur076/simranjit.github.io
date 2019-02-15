@@ -1,4 +1,6 @@
 # Figma
 
-## What I am going to do
+## I choose figma to make my second project for directed studies because of the following reasons:
+
+
 
