@@ -1,7 +1,6 @@
 
 # Project B (Second Blog)
 
-
 ## Accomplishments this week
 
 In this week I learnt following things about Figma:
@@ -9,8 +8,8 @@ I did a course on linda.com and this the link:-[https://www.lynda.com/Figma-tuto
 
 ## Problems
 
-Tutorial i saw on lynda.com is very helpful so i did,nt face any problem.
+Tutorial I saw on lynda.com is very helpful so I did,nt face any problem.
 
 
 ## My plans for next week
-For the next week i will complete my project B. I will deliever the final result which will include a complete app in which i will apply all the things which i learnt about figma.
+For the next week i will complete my project B. I will deliever the final result which will include a complete app in which I will apply all the things which i learnt about figma.
