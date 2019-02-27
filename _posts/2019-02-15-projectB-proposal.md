@@ -10,7 +10,7 @@ After seeing many videos on youtube and Lynda.com and i learn many things about 
 
 
 ## Deliverables
-I will deliver a website prototype which i will make using all the properties of Figma.
+I will deliver a mobile app prototype which i will make using all the properties of Figma. I am making a app in which people can explore about India. I will make 10 artboards related to app. I am using iphone X frame of figma for this.
 
 ## References
 
